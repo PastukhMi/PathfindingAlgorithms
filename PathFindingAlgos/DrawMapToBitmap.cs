@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-
+        
 namespace PathFindingAlgos
 {
     public class DrawMapToBitmap 
