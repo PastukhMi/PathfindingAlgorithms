@@ -4,7 +4,7 @@ using System.Drawing;
         
 namespace PathFindingAlgos
 {
-    public class DrawMapToBitmap 
+    public class DrawMapToBitmap
     {
         public event EventHandler MapChanged;
         public Bitmap Bitmap { get; private set; }
